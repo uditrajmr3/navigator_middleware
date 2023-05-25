@@ -59,4 +59,4 @@ class _MyAppState extends State<MyApp> {
 
 ## Bugs & Issue
 
-- For bugs, feature requests, and discussion please use [GitHub Issues](https://github.com/udit-raj-simform/navigation_middleware/issues)
+- For bugs, feature requests, and discussion please use [GitHub Issues](https://github.com/udit-raj-simform/navigator_middleware/issues)
