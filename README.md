@@ -2,6 +2,7 @@
 
 This Flutter project implements Navigator MiddleWare with NavigatorObserver and RouterObserver
 
+> This Repository is directly influenced from [this repository](https://github.com/payam-zahedi/flutter-route-observer)
 > you will also be able to find  Navigator MiddleWare implementation on my github using GoRuter
 
 ## Basic Implementation
